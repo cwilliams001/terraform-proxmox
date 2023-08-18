@@ -1,0 +1,4 @@
+.terraform.lock.hcl
+terraform-plugin-proxmox.log
+terraform.tfstate
+terraform.tfstate.backup
